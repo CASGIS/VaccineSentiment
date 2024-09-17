@@ -102,14 +102,14 @@ dta.rate <- dta %>%
          emotion_std = (emotion - mean(emotion, na.rm = T)) / sd(emotion, na.rm = T)
   )
 
-saveRDS(dta.rate, 'dtaRateFull_5bin.rds', compress = T)
+saveRDS(dta.rate, 'panel_rate_bin5.rds', compress = T)
 
 
 
 # Dynamic treatment effect of vaccination on expressed sentiment -----------
 # regressing on local vaccination rate increase 
 
-dta.rate <- readRDS('dtaRateFull_bin5.rds')
+dta.rate <- readRDS('panel_rate_bin5.rds')
 
 reg_attgt <- att_gt(yname = "emotion_std",
                     tname = "rate_vac_post",
@@ -155,7 +155,7 @@ reg.tb <- data.frame(coef = aggte(reg_attgt, type = "dynamic", na.rm = T, min_e 
 
 # Plot together with tweets distribution ----------------------------------
 
-dta.sum <- readRDS('dtaSum_Rate_bin5.rds')
+dta.sum <- readRDS('dtaSum_rate_bin5.rds')
 
 bar.tb <- dta.sum %>%
   mutate(delta_rate = as.integer(delta_rate)) %>%
