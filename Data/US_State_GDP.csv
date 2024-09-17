@@ -1,0 +1,52 @@
+state,GDP2021,GDP2020,GDPrate,GDPratepercent,realGDPgrowth,GDPper2021,GDPper2020,percentofnation2021,percentofnation2020
+California,3356631.4,3007187.7,"Increase 349,443.7",Increase 11.6%,Increase 7.8%,"$85,546","$76,132",14.69%,14.49%
+Texas,1985318.5,1775587.8,"Increase 209,730.7",Increase 11.8%,Increase 5.6%,"$67,235","$60,771",8.69%,8.55%
+New York,1853925.9,1724759.1,"Increase 129,166.8",Increase 7.5%,Increase 5.0%,"$93,463","$85,575",8.11%,8.31%
+Florida,1226297.5,1106035.5,"Increase 120,262.0",Increase 10.9%,Increase 6.9%,"$56,301","$51,277",5.37%,5.33%
+Illinois,938347.3,858366.9,"Increase 79,980.4",Increase 9.3%,Increase 5.0%,"$74,052","$67,137",4.11%,4.13%
+Pennsylvania,839436.5,771897.9,"Increase 67,538.6",Increase 8.7%,Increase 4.4%,"$64,751","$59,424",3.67%,3.72%
+Ohio,736449.8,677561.2,"Increase 58,888.6",Increase 8.7%,Increase 4.3%,"$62,517","$57,466",3.22%,3.26%
+Georgia,683202.1,622627.8,"Increase 60,674.3",Increase 9.7%,Increase 5.8%,"$63,271","$58,050",2.99%,3.00%
+New Jersey,672089.4,618579.3,"Increase 53,510.1",Increase 8.7%,Increase 4.9%,"$72,524","$66,659",2.94%,2.98%
+Washington,667576.8,604253.8,"Increase 63,323.0",Increase 10.5%,Increase 6.7%,"$86,265","$78,284",2.92%,2.91%
+North Carolina,654985.7,589829,"Increase 65,156.7",Increase 11.0%,Increase 6.7%,"$62,077","$56,404",2.87%,2.84%
+Massachusetts,636514.3,582476.8,"Increase 54,037.5",Increase 9.3%,Increase 6.4%,"$91,129","$82,948",2.79%,2.81%
+Virginia,591851,549535.8,"Increase 42,315.2",Increase 7.7%,Increase 4.0%,"$68,483","$63,662",2.59%,2.65%
+Michigan,568413.2,515119.9,"Increase 53,293.3",Increase 10.3%,Increase 6.2%,"$56,554","$51,166",2.49%,2.48%
+Maryland,438234.9,410674.7,"Increase 27,560.2",Increase 6.7%,Increase 3.2%,"$71,083","$66,531",1.92%,1.98%
+Colorado,421941.4,382584.7,"Increase 39,356.7",Increase 10.3%,Increase 5.8%,"$72,597","$66,142",1.85%,1.84%
+Indiana,420339.2,375336.7,"Increase 45,002.5",Increase 12.0%,Increase 6.9%,"$61,760","$55,313",1.84%,1.81%
+Tennessee,418294.2,369574.3,"Increase 48,719.9",Increase 13.2%,Increase 8.6%,"$59,969","$53,406",1.83%,1.78%
+Minnesota,412000.8,373739.3,"Increase 38,261.5",Increase 10.2%,Increase 5.7%,"$72,187","$65,486",1.80%,1.80%
+Arizona,411191.8,373719,"Increase 37,472.8",Increase 10.0%,Increase 5.3%,"$56,511","$52,065",1.80%,1.80%
+Wisconsin,365931.3,337714,"Increase 28,217.3",Increase 8.4%,Increase 3.8%,"$62,065","$57,314",1.60%,1.63%
+Missouri,359952,329367.2,"Increase 30,584.8",Increase 9.3%,Increase 4.6%,"$58,356","$53,517",1.58%,1.59%
+Connecticut,296497.6,276422.9,"Increase 20,074.7",Increase 7.3%,Increase 4.2%,"$82,233","$76,779",1.30%,1.33%
+South Carolina,270079,244881.7,"Increase 25,197.3",Increase 10.3%,Increase 5.9%,"$52,031","$47,728",1.18%,1.18%
+Oregon,266943.1,243776.8,"Increase 23,166.3",Increase 9.5%,Increase 5.4%,"$62,867","$57,474",1.17%,1.17%
+Louisiana,255306.6,235437.4,"Increase 19,869.2",Increase 8.4%,Increase 2.4%,"$55,213","$50,619",1.12%,1.13%
+Alabama,247092.5,226896.5,"Increase 20,196.0",Increase 8.9%,Increase 4.1%,"$49,027","$45,155",1.08%,1.09%
+Kentucky,234498.2,212539.6,"Increase 21,958.6",Increase 10.3%,Increase 4.7%,"$52,002","$47,190",1.03%,1.02%
+Utah,220342,197561.9,"Increase 22,780.1",Increase 11.5%,Increase 6.7%,"$66,011","$60,201",0.96%,0.95%
+Iowa,219841.7,194267.6,"Increase 25,574.1",Increase 13.2%,Increase 6.4%,"$68,849","$60,924",0.96%,0.94%
+Oklahoma,206750.5,188056.6,"Increase 18,693.9",Increase 9.9%,Increase 2.2%,"$51,861","$47,465",0.90%,0.91%
+Nevada,192963.8,170943.8,"Increase 22,020.0",Increase 12.9%,Increase 7.1%,"$61,375","$54,894",0.84%,0.82%
+Kansas,192303.6,175141.8,"Increase 17,161.8",Increase 9.8%,Increase 3.8%,"$65,530","$59,656",0.84%,0.84%
+Washington,152007.9,144554.8,"Increase 7,453.1",Increase 5.2%,Increase 2.8%,"$226,861","$209,471",0.67%,0.70%
+Nebraska,150387.7,133439,"Increase 16,948.7",Increase 12.7%,Increase 5.3%,"$76,584","$68,031",0.66%,0.64%
+Arkansas,144545.4,130750.7,"Increase 13,794.7",Increase 10.6%,Increase 5.0%,"$47,770","$43,407",0.63%,0.63%
+Mississippi,125110,113845.7,"Increase 11,264.3",Increase 9.9%,Increase 4.4%,"$42,411","$38,502",0.55%,0.55%
+New Mexico,108928,98472.1,"Increase 10,455.9",Increase 10.6%,Increase 2.5%,"$51,481","$46,502",0.48%,0.47%
+New Hampshire,98241.8,87621,"Increase 10,620.8",Increase 12.1%,Increase 8.5%,"$70,729","$63,593",0.43%,0.42%
+Idaho,94316.8,83821.6,"Increase 10,495.2",Increase 12.5%,Increase 5.8%,"$49,616","$45,364",0.41%,0.40%
+Hawaii,90059.4,82884.6,"Increase 7,174.8",Increase 8.7%,Increase 4.6%,"$62,474","$57,087",0.39%,0.40%
+West Virginia,87394.5,75855,"Increase 11,539.5",Increase 15.2%,Increase 4.0%,"$49,017","$42,382",0.38%,0.37%
+Delaware,80718.2,75786.5,"Increase 4,931.7",Increase 6.5%,Increase 3.7%,"$80,446","$76,406",0.35%,0.37%
+Maine,76057.2,69271.8,"Increase 6,785.4",Increase 9.8%,Increase 5.2%,"$55,425","$50,850",0.33%,0.33%
+Rhode Island,65939.2,60556.3,"Increase 5,382.9",Increase 8.9%,Increase 5.5%,"$60,185","$55,241",0.29%,0.29%
+North Dakota,63386.8,54854.2,"Increase 8,532.6",Increase 15.6%,Increase 2.1%,"$81,795","$70,420",0.28%,0.26%
+South Dakota,61205.5,54789.4,"Increase 6,416.1",Increase 11.7%,Increase 4.9%,"$68,357","$61,762",0.27%,0.26%
+Montana,59302.8,51508.8,"Increase 7,794.0",Increase 15.1%,Increase 6.7%,"$53,703","$47,421",0.26%,0.25%
+Alaska,54970.1,49820,"Increase 5,150.1",Increase 10.3%,Increase 0.3%,"$75,027","$68,019",0.24%,0.24%
+Wyoming,41622.4,36323.5,"Increase 5,298.9",Increase 14.6%,Increase 1.1%,"$71,911","$62,923",0.18%,0.17%
+Vermont,36170.1,33435,"Increase 2,735.1",Increase 8.2%,Increase 3.5%,"$56,028","$52,039",0.16%,0.16%
