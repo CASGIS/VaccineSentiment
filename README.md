@@ -2,7 +2,7 @@
 
 # Individuals’ self-disclosure text on social media reveals sentiment and mental health benefits of vaccination
 
-Replication materials for Z Cheng, J Wang, Y Fan, et al. (2023). Individuals’ self-disclosure text on social media reveals sentiment and mental health benefits of vaccination. Working paper
+Replication materials for Z Cheng, J Wang, Y Fan, et al. (2025). Individuals’ self-disclosure text on social media reveals sentiment and mental health benefits of vaccination. Working paper
 
 The materials in this repository allow users to reproduce the data analysis and figures appearing in the paper.
 
